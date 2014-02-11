@@ -1,1 +1,1 @@
-include ':week2', ':week3'
+include ':week2', ':week3', ':week3_mybrowser', ':week3_permissionslab', ':week3_DangerousApp', ':week3_FragmentsLab'
