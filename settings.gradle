@@ -1,2 +1,2 @@
-include ':week4_UILabs'
+include ':week4_UILabs', ':week5_notificationslab'
 //include ':week2', ':week3', ':week3_mybrowser', ':week3_permissionslab', ':week3_DangerousApp', ':week3_FragmentsLab', ':week4_UILabs'
