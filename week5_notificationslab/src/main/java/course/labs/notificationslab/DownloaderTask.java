@@ -32,7 +32,7 @@ public class DownloaderTask extends AsyncTask<String, Void, String[]> {
 
     // Change this variable to false if you do not have a stable network
     // connection
-    private static final boolean HAS_NETWORK_CONNECTION = true;
+    private static final boolean HAS_NETWORK_CONNECTION = false;
 
     // Raw feed file IDs used if you do not have a stable connection
     public static final int txtFeeds[] = {R.raw.tswift, R.raw.rblack,
